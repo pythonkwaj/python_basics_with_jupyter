@@ -3,10 +3,13 @@
 This is a juypter notebook to introduce the concept of notebooks an provide some basics on [python](https://www.python.org/about/gettingstarted/)
 
 ** You can run this online, by clicking on the below link, nothing to install or follow, try it here:**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/techsolx/python_basics_with_jupyter.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/techsolx/python_basics_with_jupyter/HEAD?labpath=Jupyter_Practice.ipynb)
 
 ### Prerequisites
 
+* Nothing really, just click on the link above.
+
+If you prefer to run it locally:
 * python3 (Python is an open source general progarmming language https://wiki.python.org/moin/)
 * git (Git is a version control system https://en.wikipedia.org/wiki/Git)
 * A default web browser, any one will do
