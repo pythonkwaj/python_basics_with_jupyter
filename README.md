@@ -3,7 +3,7 @@
 This is a juypter notebook to introduce the concept of notebooks an provide some basics on [python](https://www.python.org/about/gettingstarted/)
 
 ** You can run this online, by clicking on the below link, nothing to install or follow, try it here:**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/techsolx/python_basics_with_jupyter/HEAD?labpath=Jupyter_Practice.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythonkwaj/python_basics_with_jupyter/HEAD?labpath=Jupyter_Practice.ipynb)
 
 ### Prerequisites
 
@@ -26,12 +26,12 @@ If you prefer to run it locally:
 ```
 git clone https://github.com/PythonTriCities/jupyter_intro.git
 ```
-* If you had trouble with the git install or just want to download the files as a zip, click this link [starthere](https://github.com/techsolx/python_basics_with_jupyter/archive/main.zip)
+* If you had trouble with the git install or just want to download the files as a zip, click this link [starthere](https://github.com/pythonkwaj/python_basics_with_jupyter/archive/main.zip)
 
 ### The next 2 steps are optional but recommended
 
 3. Create the virtual environment if it doesn\'t exist:
-  * [What/'s a virtual environment?](https://docs.python.org/3/library/venv.html)
+  * [What's a virtual environment?](https://docs.python.org/3/library/venv.html)
 
 * On Linux/Mac it is: python3 -m venv /path/to/new/virtual/environment
 
