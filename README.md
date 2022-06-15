@@ -24,7 +24,7 @@ If you prefer to run it locally:
 2. If you know git you can clone the repository by using this command.
 
 ```
-git clone https://github.com/PythonTriCities/jupyter_intro.git
+git clone https://github.com/pythonkwaj/python_basics_with_jupyter.git
 ```
 * If you had trouble with the git install or just want to download the files as a zip, click this link [starthere](https://github.com/pythonkwaj/python_basics_with_jupyter/archive/main.zip)
 
